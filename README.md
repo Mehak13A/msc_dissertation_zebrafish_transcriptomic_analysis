@@ -124,15 +124,23 @@ The raw count datasets are provided in separately in this repository:
     files (one per sample). The raw featureCounts files are not included due to file size; this combined matrix is the input used by all
     downstream scripts. Groups: M3_MUT (n=3), M3_WT (n=5), M3_Het (n=5)
 
-Outputs/
-    1. differential_expression_analysis/
-    2. q2_age_outlier_sensitivity/
-    3. go_enrichment_analysis/
-    ... (one folder per script, numbered to match)
-    Outputs Explanation_date.docx: plain-language description of every output file
+# Outputs
+1. differential_expression_analysis/
+2. q2_age_outlier_sensitivity/
+3. go_enrichment_analysis/
+4. tert_3month_de_analysis/
+5. cross_dataset_direction_check/
+6. grn_tf_activity_model/
+7. string_prep_and_grn_overlap/
+8. q2_age_tf_activity_and_comparison/
+9. interaction_genotype_x_age/
+10. grn_interaction_pattern_mapping/
+11. project_overview_plots/
+
+Outputs Explanation_date.docx: plain-language description of every output file
 
 # How to Run
 1. Clone this repository.
 2. Install the dependencies as stated before.
-3. The raw data files are in the Datasets/ folder. Open whichever script you want to run and set the paths in the CONFIGURATION block at the top to point to those files.
-4. Run the scripts in order (1 through 11), as later scripts use outputs from earlier ones. Each script's docstring lists exactly which input files it needs and which output files it produces. The pre-computed outputs are already in the Outputs/ folder if you want to inspect results without re-running the analysis.
+3. The raw data files are provided seprately as mentioned before. Open whichever script you want to run and set the paths in the CONFIGURATION block at the top to point to those files.
+4. Run the scripts in order (1 through 11), as later scripts use outputs from earlier ones. Each script's docstring lists exactly which input files it needs and which output files it produces. The pre-computed outputs are already provided seprately in folders mentioned before if you want to inspect results without re-running the analysis.
