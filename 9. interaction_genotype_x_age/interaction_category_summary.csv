@@ -1,0 +1,9 @@
+kind,category,count
+affected_by,age_only,8837
+affected_by,both,6251
+affected_by,neither,5256
+affected_by,genotype_only,664
+interaction_pattern,no_genotype_effect,14093
+interaction_pattern,age_dependent_onset,6906
+interaction_pattern,transient_early,7
+interaction_pattern,reversal,2
