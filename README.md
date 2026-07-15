@@ -129,10 +129,6 @@ Datasets/
     
         13 individual featureCounts output files, one per 3-month sample. Script 4 (tert_3month_de_analysis.py) combines these into a single count matrix. Groups: M3_MUT (n=3), M3_WT (n=5), M3_Het (n=5).
 
-    Additional datasets/
-        Wang/1-s2.0-S1744117X25001212-mmc1.xlsx: Wang et al. zebrafish muscle RNA-seq (6, 12, 18, 24 months; used for cross-validation)
-        Kijima/DRR_TPM_genes_ensembl_ids.txt: Kijima et al. multi-tissue zebrafish RNA-seq (2, 7, 16, 39 months; used for cross-validation)
-
 Outputs/
     1. differential_expression_analysis/
     2. q2_age_outlier_sensitivity/
