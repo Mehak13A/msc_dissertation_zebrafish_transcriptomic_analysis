@@ -115,19 +115,14 @@ Scripts 6 and 8 require an internet connection to download the CollecTRI regulon
 For the STRING analysis (script 7), the gene lists are submitted to the STRING website (string-db.org) manually. The script handles input preparation and downstream cross-referencing only, and does not require a STRING account or API key.
 
 # Data
-The raw count data and all output files are provided in separate folders in this repository:
+The raw count datasets are provided in separately in this repository:
 
-Datasets/
     adult_muscle_18mo/
         gene_count.xls: 18-month adult muscle raw counts (Novogene); Groups: M18_MUT (n=4), M18_WT (n=5),M37_WT (n=6), M11_WT (n=5)
 
-    tert_3m/ 13_files/
-        Muscle_234_ACTGAT_L004_R1_001.fastq-featureCounts_gene.txt               
-        Muscle_235_CGTACG_L007_R1_001.fastq-featureCounts_gene.txt
-        ...
-        Muscle_273_ACTGAT_L002_R1_001.fastq-featureCounts_gene.txt
-    
-        13 individual featureCounts output files, one per 3-month sample. Script 4 (tert_3month_de_analysis.py) combines these into a single count matrix. Groups: M3_MUT (n=3), M3_WT (n=5), M3_Het (n=5).
+    tert3m_raw_counts.csv: Combined 3-month count matrix, produced by script 4 (tert_3month_de_analysis.py) from 13 individual featureCounts
+    files (one per sample). The raw featureCounts files are not included due to file size; this combined matrix is the input used by all
+    downstream scripts. Groups: M3_MUT (n=3), M3_WT (n=5), M3_Het (n=5)
 
 Outputs/
     1. differential_expression_analysis/
