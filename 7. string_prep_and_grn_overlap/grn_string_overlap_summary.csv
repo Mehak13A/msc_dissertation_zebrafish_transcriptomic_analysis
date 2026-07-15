@@ -1,0 +1,3 @@
+direction,string_term,term_gene_count,primary_grn_set,primary_overlap,secondary_grn_set,secondary_overlap
+down,Cell Cycle (Reactome),248,repressed_TF_targets,65,E2F_targets,65
+up,Response to stimulus (GO Process),497,activated_TF_targets,252,TP53_targets,62
