@@ -35,12 +35,12 @@ REFERENCES (this file only)
     These references apply to this source file only and are independent of any reference numbering used in the accompanying report.
 
     [1] U. Raudvere et al., "g:Profiler: a web server for functional enrichment analysis and conversions of gene lists
-        (2019 update)", Nucleic Acids Research, vol. 47, no. W1, pp. W191-W198, 2019.
+        (2019 update)," Nucleic Acids Research, vol. 47, no. W1, pp. W191-W198, 2019.
     [2] M. I. Love, W. Huber, and S. Anders, "Moderated estimation of fold change and dispersion for RNA-seq data with
-        DESeq2", Genome Biology, vol. 15, no. 12, art. 550, 2014.
+        DESeq2," Genome Biology, vol. 15, no. 12, art. 550, 2014.
     [3] B. Muzellec, M. Telenczuk, V. Cabeli, and M. Andreux, "PyDESeq2: a python package for bulk RNA-seq differential
-        expression analysis", Bioinformatics, vol. 39, no. 9, 2023.
-    [4] M. L. Waskom, "seaborn: statistical data visualization", J. Open Source Software, vol. 6, no. 60, art. 3021, 2021.
+        expression analysis," Bioinformatics, vol. 39, no. 9, 2023.
+    [4] M. L. Waskom, "seaborn: statistical data visualization," J. Open Source Software, vol. 6, no. 60, art. 3021, 2021.
 """
 
 # Import all necessary libraries and modules
