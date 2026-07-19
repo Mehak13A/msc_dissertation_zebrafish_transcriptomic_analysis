@@ -28,9 +28,9 @@ OUTPUTS (all written to OUTPUT_DIR)
 References (this file only)
     These references apply to this source file only and are independent of any reference numbering used in the accompanying report.
 
-    [1] P. Virtanen et al., "SciPy 1.0: fundamental algorithms for scientific computing in Python", Nat. Methods,
+    [1] P. Virtanen et al., "SciPy 1.0: fundamental algorithms for scientific computing in Python," Nat. Methods,
         vol. 17, pp. 261-272, 2020.
-    [2] M. L. Waskom, "seaborn: statistical data visualization", J. Open Source Software, vol. 6, no. 60, art. 3021, 2021.
+    [2] M. L. Waskom, "seaborn: statistical data visualization," J. Open Source Software, vol. 6, no. 60, art. 3021, 2021.
 """
 
 # Import all necessary libraries and modules
