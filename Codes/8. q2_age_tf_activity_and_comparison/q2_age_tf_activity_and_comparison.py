@@ -28,10 +28,10 @@ References (this file only)
     These references apply to this source file only and are independent of any reference numbering used in the accompanying report.
 
     [1] S. Müller-Dott et al., "Expanding the coverage of regulons from high-confidence prior knowledge for accurate
-        estimation of transcription factor activities", Nucleic Acids Research, vol. 51, no. 20, pp. 10934-10949, 2023.
+        estimation of transcription factor activities," Nucleic Acids Research, vol. 51, no. 20, pp. 10934-10949, 2023.
     [2] P. Badia-i-Mompel et al., "decoupleR: ensemble of computational methods to infer biological activities from
-        omics data", Bioinformatics Advances, vol. 2, no. 1, art. vbac016, 2022.
-    [3] P. Virtanen et al., "SciPy 1.0: fundamental algorithms for scientific computing in Python", Nature Methods, vol. 17, pp. 261-272, 2020.
+        omics data," Bioinformatics Advances, vol. 2, no. 1, art. vbac016, 2022.
+    [3] P. Virtanen et al., "SciPy 1.0: fundamental algorithms for scientific computing in Python," Nature Methods, vol. 17, pp. 261-272, 2020.
 """
 
 # Import all necessary libraries and modules
