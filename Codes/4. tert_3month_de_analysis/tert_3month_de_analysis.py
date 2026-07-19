@@ -34,12 +34,12 @@ REFERENCES (this file only)
     These references apply to this source file only and are independent of any reference numbering used in the accompanying report.
 
     [1] M. I. Love, W. Huber, and S. Anders, "Moderated estimation of fold change and dispersion for RNA-seq data with
-        DESeq2", Genome Biology, vol. 15, no. 12, art. 550, 2014.
+        DESeq2," Genome Biology, vol. 15, no. 12, art. 550, 2014.
     [2] B. Muzellec, M. Telenczuk, V. Cabeli, and M. Andreux, "PyDESeq2: a python package for bulk RNA-seq differential
-        expression analysis", Bioinformatics, vol. 39, no. 9, 2023.
-    [3] J. D. Storey and R. Tibshirani, "Statistical significance for genomewide studies", Proc. Nat. Acad. Sci.,
+        expression analysis," Bioinformatics, vol. 39, no. 9, 2023.
+    [3] J. D. Storey and R. Tibshirani, "Statistical significance for genomewide studies," Proc. Nat. Acad. Sci.,
         vol. 100, no. 16, pp. 9440-9445, 2003.
-    [4] F. Pedregosa et al., "Scikit-learn: machine learning in Python", J. Mach. Learn. Res., vol. 12, pp. 2825-2830,
+    [4] F. Pedregosa et al., "Scikit-learn: machine learning in Python," J. Mach. Learn. Res., vol. 12, pp. 2825-2830,
         2011.
 """
 
