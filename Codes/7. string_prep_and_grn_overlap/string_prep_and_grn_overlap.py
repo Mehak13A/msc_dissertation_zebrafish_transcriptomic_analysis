@@ -46,9 +46,9 @@ References (this file only)
     These references apply to this source file only and are independent of any reference numbering used in the accompanying report.
 
     [1] D. Szklarczyk et al., "The STRING database in 2023: protein-protein association networks and functional
-        enrichment analyses for any sequenced genome of interest", Nucleic Acids Research, vol. 51, no. D1, pp. D638-D646, 2023.
+        enrichment analyses for any sequenced genome of interest," Nucleic Acids Research, vol. 51, no. D1, pp. D638-D646, 2023.
     [2] U. Raudvere et al., "g:Profiler: a web server for functional enrichment analysis and conversions of gene lists
-        (2019 update)", Nucleic Acids Research, vol. 47, no. W1, pp. W191-W198, 2019.
+        (2019 update)," Nucleic Acids Research, vol. 47, no. W1, pp. W191-W198, 2019.
 """
 
 # Import all necessary libraries and modules
