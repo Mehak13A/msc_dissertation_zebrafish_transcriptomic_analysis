@@ -39,14 +39,14 @@ References (this file only)
     These references apply to this source file only and are independent of any reference numbering used in the accompanying report.
 
     [1] U. Raudvere et al., "g:Profiler: a web server for functional enrichment analysis and conversions of gene lists
-        (2019 update)", Nucleic Acids Research, vol. 47, no. W1, pp. W191-W198, 2019.
+        (2019 update)," Nucleic Acids Research, vol. 47, no. W1, pp. W191-W198, 2019.
     [2] P. Badia-i-Mompel et al., "decoupleR: ensemble of computational methods to infer biological activities from 
-        omics data", Bioinformatics Advances, vol. 2, no. 1, Art. no. vbac016, 2022, doi: 10.1093/bioadv/vbac016.
+        omics data," Bioinformatics Advances, vol. 2, no. 1, Art. no. vbac016, 2022, doi: 10.1093/bioadv/vbac016.
     [3] S. Müller-Dott et al., "Expanding the coverage of regulons from high-confidence prior knowledge for accurate
-        estimation of transcription factor activities", Nucleic Acids Research, vol. 51, no. 20, pp. 10934-10949, 2023.
+        estimation of transcription factor activities," Nucleic Acids Research, vol. 51, no. 20, pp. 10934-10949, 2023.
     [4] A. A. Hagberg, D. A. Schult, and P. J. Swart, "Exploring network structure, dynamics, and function using
-        NetworkX", in Proc. 7th Python in Science Conf. (SciPy 2008), pp. 11-15, 2008.
-    [5] P. Shannon et al., "Cytoscape: a software environment for integrated models of biomolecular interaction networks",
+        NetworkX," in Proc. 7th Python in Science Conf. (SciPy 2008), pp. 11-15, 2008.
+    [5] P. Shannon et al., "Cytoscape: a software environment for integrated models of biomolecular interaction networks,"
         Genome Research, vol. 13, no. 11, pp. 2498–2504, 2003.
 """
 
