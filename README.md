@@ -137,7 +137,7 @@ The raw count datasets are provided in separately in this repository:
 10. grn_interaction_pattern_mapping/
 11. project_overview_plots/
 
-Outputs Explanation_date.docx: plain-language description of every output file
+Outputs Explanation_date.pdf: plain-language description of every output file
 
 # How to Run
 1. Clone this repository.
